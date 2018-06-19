@@ -1,0 +1,52 @@
+.page-header {
+  width: 100%;
+  padding: 0 0 25px;
+
+  font-family: "Circe";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.page-header__nav {
+  margin-bottom: 130px;
+}
+
+.page-header__title {
+  margin: 0 0 20px;
+
+  font-family: "Playfair Display";
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: #2d2829;
+}
+
+.page-header__description {
+  padding: 0 47px;
+}
+
+.page-header__caption {
+  margin: 0;
+}
+
+.page-header__advantage {
+  margin: 0;
+}
+
+.page-header__link {
+  display: block;
+  min-width: 226px;
+  height: 51px;
+  margin: auto;
+
+  text-align: center;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  color: #ffffff;
+
+  border-radius: 25px;
+  background-color: #f50049;
+}
